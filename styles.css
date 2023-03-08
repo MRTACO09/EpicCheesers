@@ -14,8 +14,9 @@ body{
 #oneinfo{
   position: absolute;
   left: 45%;
-  top: 200px;
+  top: 150px;
 }
 #tourninfo{
-  top: 200px;
+  position: absolute;
+  top: 150px;
 }
