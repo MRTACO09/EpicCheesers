@@ -20,3 +20,8 @@ body{
   position: absolute;
   top: 150px;
 }
+#twoinfo{
+  position: absolute;
+  left: 45%;
+  top: 600px;
+}
